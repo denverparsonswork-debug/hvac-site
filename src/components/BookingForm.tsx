@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Calendar, Clock, MapPin, Send } from 'lucide-react';
+import { Calendar, MapPin, Send } from 'lucide-react';
 
 const BookingForm: React.FC = () => {
   return (
